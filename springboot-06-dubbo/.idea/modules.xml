@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/consumer-user/consumer-user.iml" filepath="$PROJECT_DIR$/consumer-user/consumer-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/provider-ticket/provider-ticket.iml" filepath="$PROJECT_DIR$/provider-ticket/provider-ticket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springboot-06-dubbo.iml" filepath="$PROJECT_DIR$/.idea/springboot-06-dubbo.iml" />
+    </modules>
+  </component>
+</project>
